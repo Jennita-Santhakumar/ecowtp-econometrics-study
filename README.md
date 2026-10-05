@@ -1,4 +1,6 @@
 # 📈 Econometric Analysis on Consumer Survey Data  
+
+> **Maintained by [Jennita S](https://github.com/Jennita-Santhakumar)** · [LinkedIn](https://linkedin.com/in/jennitas) · jennitasanthakumar0@gmail.com
 **Author:** A. Kabilesh Rajaselvan  
 **Reg. No:** 21MIA1132  
 **Institution:** VIT Chennai – SCOPE School  
@@ -108,3 +110,7 @@ Ensure the required Python libraries are installed before running the notebook
 Data file paths or URLs might need adjustment if using a different dataset
 
 For larger datasets, execution time might increase for regression diagnostics
+
+## Credits
+
+Developed by Kabilesh Rajaselvan with contributions from Jennita S.
